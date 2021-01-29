@@ -1274,3 +1274,21 @@ footer .credits a {
         text-align: center;
         display: block;
       }
+
+.aboutheader{
+
+  font-size: 50px;
+  text-align: center;
+  font-weight: bolder;
+
+
+}
+
+.aboutpra{
+  font-size: 20px;
+  text-align: center;
+  font-weight: normal;
+  color: black;
+
+
+}
