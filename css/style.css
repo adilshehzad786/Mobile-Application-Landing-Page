@@ -1326,3 +1326,13 @@ footer .credits a {
    height: 100px;
    background-color: #EEEEEE;
  }
+
+ img.loadimg {
+    bottom: 6px;
+    position: relative;
+    right: 8px;
+}
+.pfooter{
+
+  color: black;
+}
