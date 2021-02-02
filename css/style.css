@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: white;
 }
 
 .overlay-mf {
@@ -106,6 +106,7 @@ a:hover {
 .paralax-mf {
   position: relative;
   padding: 8rem 0;
+  font-family: 'Catamaran', sans-serif;
 }
 
 .display-table {
@@ -1459,4 +1460,11 @@ footer .credits a {
 }
 .cheepi{
   height: 200px;
+}
+
+.privacy_page_h2
+{
+
+  font-family: 'Catamaran', sans-serif;
+  font-size: 20px;
 }
